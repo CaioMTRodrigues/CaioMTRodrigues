@@ -16,12 +16,6 @@
   <img alt="Caio-PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioMTRodrigues&show_icons=true&theme=radical" alt="Caio's GitHub stats" style="height: 9em;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMTRodrigues&layout=compact&theme=radical" alt="Top Langs" style="height: 9em;">
-</div>
-  
   ## 💬 Se quiser falar comigo, to por aqui!
  
 <div> 
